@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+Refer From here :
+
+https://www.kaggle.com/veeralakrishna/ipl-points-table-2008-to-2019
+https://www.kaggle.com/vamsikrishna/exploratory-data-analysis-of-ipl-data
+https://www.kaggle.com/sahib12/ipl-match-analysis
+https://www.kaggle.com/kushal1996/fifa-19-analysis-dream-team
+https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset
+https://www.kaggle.com/kushal1996/fifa-19-analysis-dream-team/comments
+https://www.flashscore.com.au/cricket/india/ipl/archive/
+https://www.scoreboard.com/en/cricket/india/ipl/archive/
+https://data.world/vijayabhaskar/ipl-all-match-complete-data
+
+https://data.world/nirmalkumar/ipl-2020
+https://data.world/abhinavmir/2020-ipl-winners
+https://cricsheet.org/
+http://cricviz.com/tag/ipl/
