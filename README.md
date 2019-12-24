@@ -43,3 +43,16 @@ https://data.world/nirmalkumar/ipl-2020
 https://data.world/abhinavmir/2020-ipl-winners
 https://cricsheet.org/
 http://cricviz.com/tag/ipl/
+
+https://grokonez.com/spring-framework/spring-data/couchbase-create-spring-jpa-couchbase-application-springboot
+https://grokonez.com/spring-framework/spring-data/couchbase-create-spring-cache-couchbase-application-springboot
+https://www.dineshonjava.com/spring-boot-with-nosql-technologies/
+https://docs.spring.io/spring-data/couchbase/docs/current/reference/html/#reference
+https://docs.jelastic.com/connection-to-couchdb
+https://dzone.com/articles/couch-db-java-integration
+https://blog.couchbase.com/couchbase-spring-boot-spring-data/
+https://docs.couchbase.com/server/4.0/install/dp4-setup-cli-rest.html
+
+only get Chage last Seq
+http://localhost:5986/my_samples_productlist/_changes?filter=_selector
+
