@@ -56,3 +56,7 @@ https://docs.couchbase.com/server/4.0/install/dp4-setup-cli-rest.html
 only get Chage last Seq
 http://localhost:5986/my_samples_productlist/_changes?filter=_selector
 
+
+
+https://docs.veri5digital.com/verification_api/#3-api-specification
+
